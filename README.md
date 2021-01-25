@@ -1,6 +1,6 @@
 # Phalcon\Incubator\Config
 
-[![Discord](https://img.shields.io/discord/310910488152375297?label=Discord)](http://phalcon.link/discord)
+[![Discord](https://img.shields.io/discord/310910488152375297?label=Discord)](http://phalcon.io/discord)
 [![Packagist Version](https://img.shields.io/packagist/v/phalcon/incubator-config)](https://packagist.org/packages/incubator-config)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/phalcon/incubator-config)](https://packagist.org/packages/phalcon/incubator-config)
 [![codecov](https://codecov.io/gh/phalcon/incubator-config/branch/master/graph/badge.svg)](https://codecov.io/gh/phalcon/incubator-config)
