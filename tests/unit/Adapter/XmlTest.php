@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Phalcon\Incubator\Config\Tests\Unit\Adapter;
 
 use Codeception\Test\Unit;
-use Phalcon\Config;
+use Phalcon\Config\Config;
 use Phalcon\Incubator\Config\Adapter\Xml;
 
 final class XmlTest extends Unit

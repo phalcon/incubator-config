@@ -14,8 +14,8 @@ declare(strict_types=1);
 namespace Phalcon\Incubator\Config\Adapter;
 
 use LibXMLError;
-use Phalcon\Config;
-use Phalcon\Config\Exception;
+use Phalcon\Config\Config;
+use Phalcon\Config\Config\Exception;
 
 /**
  * Phalcon Config XML Adapter
